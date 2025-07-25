@@ -14,8 +14,8 @@ i’m keeping a list of all the parts i'm using. it’s not final yet.
 | Components                        | Price (INR) | Price (USD) | Quantity                                   | Link |
 |----------------------------------|-------------|-------------|--------------------------------------------|------|
 | 2020 extrusion                   | 3000        | 37.5        | 8.5m                                       | [link](https://novo3d.in/aluminium-profiles-2020/?srsltid=AfmBOoqdCIagKlnxuTtaedS3pP4a6XTQNW1oaKr_tbyDSgIuxD1gO6ok) |
-| linear rail(mgn12c)              | 2080        | 26          | 4.2m                                       | asdasd |
-| linear rail block (mgn12c)       | 5000        | 62.5        | 11                                         | asdasd |
+| linear rail(mgn12c)              | 2080        | 26          | 4.2m                                       | indiamart/alibaba |
+| linear rail block (mgn12c)       | 5000        | 62.5        | 11                                         | indiamart/alibaba |
 | nema17hs4401                     | 3700        | 46.25       | 5 (6 for extruder, i alr have spare)       | [link](https://www.amazon.in/dp/B0DGF3VZYT?ref=ppx_yo2ov_dt_b_fed_asin_title) |
 | lead screw                       | 780         | 9.75        | 3x430                                      | [link](https://robodo.in/products/500mm-trapezoidal-lead-screw-8mm-thread-2mm-pitch-lead-screw-with-copper-nut?variant=6509949091883) |
 | lead screw anti backlash         | 261         | 3.2625      | 3                                          | [link](https://www.flyrobo.in/t8-anti-backlash-spring-loaded-nut-for-8mm-threaded-rod-lead-screw-2*2mm) |
@@ -36,8 +36,8 @@ i’m keeping a list of all the parts i'm using. it’s not final yet.
 | aluminium hotend bracket        | 200         | 2.5         | 1                                          | [link](https://novo3d.in/e3d-v6-fixed-block/) |
 | coupler 5x8mm                   | 122         | 1.525       | 407.5                                      | [link](https://www.fastdep.in/product/flexible-coupling-5mmx8mm/) |
 | tslot nuts for 2020             | 970         | 12.125      | 100                                        | [link](https://novo3d.in/sliding-t-nut/) |
-| 300x300 heatbed                 | 1600        | 20          | 1                                          | asdasdw124 |
-| **TOTAL**                       | **32600**   | **407.5**   |                                            |      |
+| 300x300 heatbed                 | 1600        | 20          | 1                                          | indiamart/alibaba |
+| **TOTAL**                       | **32600**   | **407.5**   |                                            | indiamart/alibaba   |
 
 
 ## build journal
