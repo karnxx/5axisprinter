@@ -1,7 +1,7 @@
 Components,Price (inr),Price (USD),Quantity,Link
 2020 extrusion,3000,37.5,8.5m,https://novo3d.in/aluminium-profiles-2020/?srsltid=AfmBOoqdCIagKlnxuTtaedS3pP4a6XTQNW1oaKr_tbyDSgIuxD1gO6ok
 linear rail(mgn12c),2080,26,4.2m,asdasd
-linear rail block (mgn12c),5000,62.5,11,asdasd
+linear rail block (mgn12c),5000,62.5,11
 nema17hs4401,3700,46.25,5 (6 for extruder, i alr have a spare nema17hs3401),https://www.amazon.in/dp/B0DGF3VZYT?ref=ppx_yo2ov_dt_b_fed_asin_title
 lead screw,780,9.75,3x430,https://robodo.in/products/500mm-trapezoidal-lead-screw-8mm-thread-2mm-pitch-lead-screw-with-copper-nut?variant=6509949091883
 lead screw anti backlas,261,3.2625,3,https://www.flyrobo.in/t8-anti-backlash-spring-loaded-nut-for-8mm-threaded-rod-lead-screw-2*2mm
