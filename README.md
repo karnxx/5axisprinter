@@ -39,6 +39,7 @@ i’m keeping a list of all the parts i'm using. it’s not final yet.
 | 300x300 heatbed                 | 1600        | 20          | 1                                          | indiamart/alibaba |
 | **TOTAL**                       | **32600**   | **407.5**   |                                            | indiamart/alibaba   |
 
+*the sites which dont have intl payment, i will pay from my pocket
 
 ## build journal
 
