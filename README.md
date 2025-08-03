@@ -25,7 +25,7 @@ i have cad files in the CAD directory, of the printer and the 3d printed parts.
 # INFO
 
 
-##fram
+## fram
 -The frame is made of 2020 aluminium extrusion. Use t slot nuts + corner joining plate and 90 deg joining thing
 -U need the following pieces-
 -500x4
@@ -35,7 +35,7 @@ i have cad files in the CAD directory, of the printer and the 3d printed parts.
 ![image](https://github.com/user-attachments/assets/4a4da90a-c10d-4663-af95-89834bb4e05a)
 
 
-##linear
+## linear
 -U need about 4.5 m of linear rail. And 11 mgn12c blocks. Linear rail dimensions are-
 
 -460x3 mm
@@ -43,17 +43,17 @@ i have cad files in the CAD directory, of the printer and the 3d printed parts.
 -420x5 mm
 ![image](https://github.com/user-attachments/assets/2d791bde-b680-41e3-877e-02363f1ae772)
 
-##Lead screw
+## Lead screw
 -U need 3 lead screws, 425 each. U also need 3 anti backlash nuts
 ![image](https://github.com/user-attachments/assets/f01d6b72-4db1-42da-92e9-43d7e8ebcce3)
 
 
-##XY
+## XY
 -Corexy xy, driven by belts and pulleys. U need 2 16t smooth idler pulleys, and 6 16t idler pulleys. U also need 2 20t pulleys for the motor
 ![image](https://github.com/user-attachments/assets/02eb3e9f-4abf-4f00-b3e5-d8d5b8b2e6e0)
 
 
-##toolhead
+## toolhead
 -For the toolhead i will use a E3D revo, along with 2 4010 radial fans and a 3010 axial fan
 -[done](images/toolhead.png)
 
@@ -62,13 +62,24 @@ i have cad files in the CAD directory, of the printer and the 3d printed parts.
 ![image](https://github.com/user-attachments/assets/1e955346-60a9-4c76-bda9-02796d99d67c)
 
 
-##Z, A, B,
+## Z, A, B,
 -For z, a, b install the cantilever 3d printer parts to the linear blocks and lead screw. Then install the 210mm linear rail to the cantilever parts. After that install the ball socket joint mount on the linear block of the linear rail which is on the cantilever thing. I will be using a 300x300 mm heatbed for this
 ![image](https://github.com/user-attachments/assets/16531fa3-6ca7-4d30-8bc7-4632af7b0425)
 
 
-##electronics
+## electronics
 -I wll be using a bl sensor. The motherboard thing for this will be a btt octopus pro.
+<img width="937" height="1079" alt="image" src="https://github.com/user-attachments/assets/c75cc56b-9ba4-4ea6-bdca-92a7eb469445" />
+<img width="2376" height="1589" alt="image" src="https://github.com/user-attachments/assets/8d225e95-049f-4267-8f0c-5f48213b7bd2" />
+
+## firmware
+-this is using reprap firmware on btt octopus pro
+-its the teamgloomy stm32 version
+-u dont need a raspberry pi, just flash the board and put config.g and other files on sd card
+-im using maxislicer for slicing, it can do 5 axis toolpaths
+-config uses m669 for kinematics and m584 for axis mapping. u have to write ur own config.g for this
+https://teamgloomy.github.io/
+
 
 
 ## bill of materials (wip)
