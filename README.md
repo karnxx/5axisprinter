@@ -6,40 +6,6 @@ this is a personal project where im building a 5-axis 3d printer, inspired by mu
 
 normal 3d printers use 3 axes (x, y, z). a 5-axis printer adds two more rotational axes. this lets it print more complex shapes with fewer supports and smoother surfaces.  
 
-## bill of materials (wip)
-
-i’m keeping a list of all the parts i'm using. it’s not final yet.  
-[bom](https://1drv.ms/x/c/a3f42e945c9caa44/EbQFKpQWxlxJoD3NqtjWvSIBQ96Bu_KVVyi092GPrF79ng?e=d1bzi9)
-
-| Components                        | Price (INR) | Price (USD) | Quantity                                   | Link |
-|----------------------------------|-------------|-------------|--------------------------------------------|------|
-| 2020 extrusion                   | 3000        | 37.5        | 8.5m                                       | [link](https://novo3d.in/aluminium-profiles-2020/?srsltid=AfmBOoqdCIagKlnxuTtaedS3pP4a6XTQNW1oaKr_tbyDSgIuxD1gO6ok) |
-| linear rail(mgn12c)              | 2080        | 26          | 4.2m                                       | indiamart/alibaba |
-| linear rail block (mgn12c)       | 5000        | 62.5        | 11                                         | indiamart/alibaba |
-| nema17hs4401                     | 3700        | 46.25       | 5 (6 for extruder, i alr have spare)       | [link](https://www.amazon.in/dp/B0DGF3VZYT?ref=ppx_yo2ov_dt_b_fed_asin_title) |
-| lead screw                       | 780         | 9.75        | 3x430                                      | [link](https://robodo.in/products/500mm-trapezoidal-lead-screw-8mm-thread-2mm-pitch-lead-screw-with-copper-nut?variant=6509949091883) |
-| lead screw anti backlash         | 261         | 3.2625      | 3                                          | [link](https://www.flyrobo.in/t8-anti-backlash-spring-loaded-nut-for-8mm-threaded-rod-lead-screw-2*2mm) |
-| 4010 fan                         | 200         | 2.5         | 2                                          | [link](https://robocraze.com/products/dc-12v-4cm-5010-double-ball-cooling-fan-durable-turbo-blower?variant=46397911433440) |
-| e3drevo6                         | 1600        | 20          | 1                                          | [link](https://nl.aliexpress.com/item/1005009068669267.html) |
-| dual gear drive extruder        | 575         | 7.1875      | 1                                          | [link](https://www.amazon.in/dp/B08BNL96DX?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) |
-| 16t idler pulley for gt2        | 360         | 4.5         | 6                                          | [link](https://www.flyrobo.in/16-tooth-3mm-bore-gt2-timing-idler-aluminum-pulley-for-6mm-belt) |
-| 16t smooth idler pulley for gt2 | 120         | 1.5         | 2                                          | [link](https://robocraze.com/products/gt2-perlin-driven-aluminium-pulley-5mm-bore) |
-| nuts and bolts                  | 300         | 3.75        | many                                       | [link](https://onlyscrews.in/) |
-| bl sensor                       | 4000        | 50          | 1                                          | [link](https://novo3d.in/bl-touch/) |
-| btt octopus                     | 4100        | 51.25       | 1                                          | [link](https://biqu.equipment/products/bigtreetech-octopus-pro-v1-0-chip-f446) |
-| gt2 belt                        | 100         | 1.25        | 3m                                         | [link](https://novo3d.in/gt2-belt/) |
-| endstops (alr have)             | 0           | 0           | 2                                          | - |
-| wire                            | 99          | 1.2375      | yes                                        | [link](https://www.amazon.in/dp/B0BVSM7N3L?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) |
-| psu 24V, 14.6A, 350W            | 2800        | 35          | 1                                          | [link](https://robodo.in/products/delta-industrial-power-supply-smps-24v-14-6a-350-4w-pmt) |
-| ptfe tube                       | 83          | 1.0375      | 1m                                         | [link](https://robocraze.com/products/ptfe-3x5mm-white-teflon-tube-for-3mm-3d-printer-filament-1-meter-3mm-id-x-5mm-od) |
-| heatbed knob set                | 550         | 6.875       | 1                                          | [link](https://www.amazon.in/dp/B088KQJZGZ?ref=ppx_yo2ov_dt_b_fed_asin_title) |
-| aluminium hotend bracket        | 200         | 2.5         | 1                                          | [link](https://novo3d.in/e3d-v6-fixed-block/) |
-| coupler 5x8mm                   | 122         | 1.525       | 407.5                                      | [link](https://www.fastdep.in/product/flexible-coupling-5mmx8mm/) |
-| tslot nuts for 2020             | 970         | 12.125      | 100                                        | [link](https://novo3d.in/sliding-t-nut/) |
-| 300x300 heatbed                 | 1600        | 20          | 1                                          | indiamart/alibaba |
-| **TOTAL**                       | **32600**   | **407.5**   |                                            | indiamart/alibaba   |
-
-*the sites which dont have intl payment, i will pay from my pocket
 
 ## build journal
 
@@ -105,8 +71,37 @@ i have cad files in the CAD directory, of the printer and the 3d printed parts.
 -I wll be using a bl sensor. The motherboard thing for this will be a btt octopus pro.
 
 
-## project status
+## bill of materials (wip)
 
-this project is still in progress. i wil be updating the journal.md from time to time
+i’m keeping a list of all the parts i'm using. it’s not final yet.  
+[bom](https://1drv.ms/x/c/a3f42e945c9caa44/EbQFKpQWxlxJoD3NqtjWvSIBQ96Bu_KVVyi092GPrF79ng?e=d1bzi9)
 
+| Components                        | Price (INR) | Price (USD) | Quantity                                   | Link |
+|----------------------------------|-------------|-------------|--------------------------------------------|------|
+| 2020 extrusion                   | 3000        | 37.5        | 8.5m                                       | [link](https://novo3d.in/aluminium-profiles-2020/?srsltid=AfmBOoqdCIagKlnxuTtaedS3pP4a6XTQNW1oaKr_tbyDSgIuxD1gO6ok) |
+| linear rail(mgn12c)              | 2080        | 26          | 4.2m                                       | indiamart/alibaba |
+| linear rail block (mgn12c)       | 5000        | 62.5        | 11                                         | indiamart/alibaba |
+| nema17hs4401                     | 3700        | 46.25       | 5 (6 for extruder, i alr have spare)       | [link](https://www.amazon.in/dp/B0DGF3VZYT?ref=ppx_yo2ov_dt_b_fed_asin_title) |
+| lead screw                       | 780         | 9.75        | 3x430                                      | [link](https://robodo.in/products/500mm-trapezoidal-lead-screw-8mm-thread-2mm-pitch-lead-screw-with-copper-nut?variant=6509949091883) |
+| lead screw anti backlash         | 261         | 3.2625      | 3                                          | [link](https://www.flyrobo.in/t8-anti-backlash-spring-loaded-nut-for-8mm-threaded-rod-lead-screw-2*2mm) |
+| 4010 fan                         | 200         | 2.5         | 2                                          | [link](https://robocraze.com/products/dc-12v-4cm-5010-double-ball-cooling-fan-durable-turbo-blower?variant=46397911433440) |
+| e3drevo6                         | 1600        | 20          | 1                                          | [link](https://nl.aliexpress.com/item/1005009068669267.html) |
+| dual gear drive extruder        | 575         | 7.1875      | 1                                          | [link](https://www.amazon.in/dp/B08BNL96DX?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) |
+| 16t idler pulley for gt2        | 360         | 4.5         | 6                                          | [link](https://www.flyrobo.in/16-tooth-3mm-bore-gt2-timing-idler-aluminum-pulley-for-6mm-belt) |
+| 16t smooth idler pulley for gt2 | 120         | 1.5         | 2                                          | [link](https://robocraze.com/products/gt2-perlin-driven-aluminium-pulley-5mm-bore) |
+| nuts and bolts                  | 300         | 3.75        | many                                       | [link](https://onlyscrews.in/) |
+| bl sensor                       | 4000        | 50          | 1                                          | [link](https://novo3d.in/bl-touch/) |
+| btt octopus                     | 4100        | 51.25       | 1                                          | [link](https://biqu.equipment/products/bigtreetech-octopus-pro-v1-0-chip-f446) |
+| gt2 belt                        | 100         | 1.25        | 3m                                         | [link](https://novo3d.in/gt2-belt/) |
+| endstops (alr have)             | 0           | 0           | 2                                          | - |
+| wire                            | 99          | 1.2375      | yes                                        | [link](https://www.amazon.in/dp/B0BVSM7N3L?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) |
+| psu 24V, 14.6A, 350W            | 2800        | 35          | 1                                          | [link](https://robodo.in/products/delta-industrial-power-supply-smps-24v-14-6a-350-4w-pmt) |
+| ptfe tube                       | 83          | 1.0375      | 1m                                         | [link](https://robocraze.com/products/ptfe-3x5mm-white-teflon-tube-for-3mm-3d-printer-filament-1-meter-3mm-id-x-5mm-od) |
+| heatbed knob set                | 550         | 6.875       | 1                                          | [link](https://www.amazon.in/dp/B088KQJZGZ?ref=ppx_yo2ov_dt_b_fed_asin_title) |
+| aluminium hotend bracket        | 200         | 2.5         | 1                                          | [link](https://novo3d.in/e3d-v6-fixed-block/) |
+| coupler 5x8mm                   | 122         | 1.525       | 407.5                                      | [link](https://www.fastdep.in/product/flexible-coupling-5mmx8mm/) |
+| tslot nuts for 2020             | 970         | 12.125      | 100                                        | [link](https://novo3d.in/sliding-t-nut/) |
+| 300x300 heatbed                 | 1600        | 20          | 1                                          | indiamart/alibaba |
+| **TOTAL**                       | **32600**   | **407.5**   |                                            | indiamart/alibaba   |
 
+*the sites which dont have intl payment, i will pay from my pocket
