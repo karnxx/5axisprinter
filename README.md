@@ -73,13 +73,16 @@ i have cad files in the CAD directory, of the printer and the 3d printed parts.
 <img width="2376" height="1589" alt="image" src="https://github.com/user-attachments/assets/8d225e95-049f-4267-8f0c-5f48213b7bd2" />
 
 ## firmware
--this is using reprap firmware on btt octopus pro
--its the teamgloomy stm32 version
--u dont need a raspberry pi, just flash the board and put config.g and other files on sd card
--im using maxislicer for slicing, it can do 5 axis toolpaths
--config uses m669 for kinematics and m584 for axis mapping. u have to write ur own config.g for this
-https://teamgloomy.github.io/
 
+using reprap firmware on btt octopus pro (stm32f446)  
+flashed with teamgloomy stm32 build  
+https://teamgloomy.github.io/
+switching to sbc setup based on feedback. therefore using rpi 3 since esp too slow. 
+points for writing config.g- 
+use m669 for kinematics  
+use m584 for axis mapping
+
+slicing with maxislicer. it supports 5 axis toolpaths  
 
 
 ## bill of materials (wip)
