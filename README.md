@@ -55,7 +55,7 @@ i have cad files in the CAD directory, of the printer and the 3d printed parts.
 
 ## toolhead
 -For the toolhead i will use a E3D revo, along with 2 4010 radial fans and a 3010 axial fan
--[done](images/toolhead.png)
+<img width="745" height="856" alt="image" src="https://github.com/user-attachments/assets/e37c4c89-ede6-40c2-8e81-914d5fcd49c9" />
 
 ##motor
 -You will need 2 motors for xy, and 3 motors for z, a and b. And 1 for extruder.
